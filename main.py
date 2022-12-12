@@ -81,8 +81,6 @@ def format_equation(equation):
     i = 0
     j = len(equation)
     while i < j:
-        #print(equation)
-        #print(i)
         #Check for new parenthesis
         if equation[i] == "(":
             # Pushes a tuple containing ([start], start_index) onto stack
