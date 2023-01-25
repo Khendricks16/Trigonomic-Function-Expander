@@ -1,7 +1,3 @@
-"""Program that will expand trigonometric equations into the sine and cosine form
-    By: Keith Hendricks"""
-
-
 # The quick character input will allow for users to punch in
 # special characters to their calculator, as keywords for the
 # trig functions (ie. cos, sin, csc) to make the program more  
